@@ -2,7 +2,7 @@
 <h3 align="center">Я вливаюсь во Frontend</h3>
 
 - Сейчас заинтересовался и изучаю Ract.js
-- Владею английским на уровне В2
+- Владею английским на уровне A2
 - Email для связи **cantiiiiii@gmail.com**
 - Мое <a href="https://github.com/Cantidou/Resume">резюме</a>
 
