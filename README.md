@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Меня зовут Богдан</h1>
-<h3 align="center">Я вливаюсь во Frontend</h3>
+<h3 align="center">Я начинающий Front-end разработчик</h3>
 
-- Сейчас заинтересовался и изучаю Ract.js
+- Сейчас заинтересовался и углубляюсь Ract.js
 - Владею английским на уровне A2
 - Email для связи **cantiiiiii@gmail.com**
 - Мое <a href="https://github.com/Cantidou/Resume">резюме</a>
