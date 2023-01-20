@@ -4,7 +4,7 @@
 - Сейчас заинтересовался и углубляюсь Ract.js
 - Владею английским на уровне A2
 - Email для связи **cantiiiiii@gmail.com**
-- linkedin **https://www.linkedin.com/in/богдан-машенец-192162256/**
+- <a href="https://www.linkedin.com/in/богдан-машенец-192162256/">linkedin</a>
 - Мое <a href="https://github.com/Cantidou/Resume">резюме</a>
 
 
