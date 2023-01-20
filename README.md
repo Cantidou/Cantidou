@@ -9,3 +9,28 @@
 
 <h3 align="left">Я использую:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+### Проекты 
+#### Магазин кроссовок на React (ReactJS + hooks/React-router/axios/React-skeleton/React-context/SCSS)
+* [https://github.com/Cantidou/react-sneakers]
+* [https://cantidou.github.io/react-sneakers/]
+
+#### Квиз игра (HTML/CSS/JS)
+* [https://github.com/Cantidou/quizgame]
+* [https://cantidou.github.io/quizgame/]
+
+#### Карточки товаров (ReactJS/SCSS)
+* [https://github.com/Cantidou/junior-front-end-test]
+* [https://cantidou.github.io/junior-front-end-test/]
+
+#### Адаптивная верстка блога (HTML/CSS)
+* [https://github.com/Cantidou/MQ-diploma]
+* [https://cantidou.github.io/MQ-diploma/] 
+
+#### Адаптивная верстка сервиса облачного гейминга (HTML/CSS/SCSS/JS)
+* [https://github.com/Cantidou/warplay]
+* [https://cantidou.github.io/warplay/] 
+
+#### Адаптивная верстка сайта поиска лучших цен (HTML/CSS/SCSS/Bootstrap/JS)
+* [https://cantidou.github.io/PriceHunter/]
+* [https://github.com/Cantidou/PriceHunter]
