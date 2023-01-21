@@ -1,7 +1,7 @@
+<h1 align="center">Привет! Меня зовут Богдан</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="320"/>
 </div>
-<h1 align="center">Привет! Меня зовут Богдан</h1>
 <h3 align="center">Я начинающий Front-end разработчик</h3>
 
 - Сейчас заинтересовался и углубляюсь RactJS
