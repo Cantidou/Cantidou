@@ -2,7 +2,7 @@
 <h3 align="center">Я начинающий Front-end разработчик</h3>
 
 - Сейчас заинтересовался и углубляюсь RactJS
-- Владею английским на уровне A2
+- Владею английским на уровне B1
 - Email для связи **cantiiiiii@gmail.com**
 - <a href="https://www.linkedin.com/in/богдан-машенец-192162256/">linkedin</a>
 - Мое <a href="https://github.com/Cantidou/Resume">резюме</a>
