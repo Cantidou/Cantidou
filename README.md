@@ -2,13 +2,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="320"/>
 </div>
-<h3 align="center">Я начинающий Front-end разработчик</h3>
+<h3 align="center">Работаю как QA Engineer, а так же увлекаюсь Front-end разработкой</h3>
 
-- Сейчас заинтересовался и углубляюсь RactJS
+- Сейчас углубляюсь в Python параллельно играясь с ReactJS
 - Владею английским на уровне B1
 - Email для связи **cantiiiiii@gmail.com**
 - <a href="https://www.linkedin.com/in/богдан-машенец-192162256/">linkedin</a>
-- Мое <a href="https://github.com/Cantidou/Resume">резюме</a>
 
 
 <h3 align="left">Я использую:</h3>
