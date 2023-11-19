@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="320"/>
 </div>
-<h3 align="center">Работаю как QA Engineer, а так же увлекаюсь Front-end разработкой</h3>
+<h3 align="center">Работаю QA Инженером, а так же увлекаюсь Front-end разработкой</h3>
 
 - Сейчас углубляюсь в Python параллельно играясь с ReactJS
 - Владею английским на уровне B1
@@ -16,6 +16,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cantidou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Проекты 
+#### Магазин пиццы на React (ReactJS/ReduxToolkit/React-router/TypeScript/SCSS)
+* [https://github.com/Cantidou/react-pizza]
+* [https://cantidou.github.io/react-pizza/]
+
 #### Магазин кроссовок на React (ReactJS + hooks/React-router/axios/React-skeleton/React-context/SCSS)
 * [https://github.com/Cantidou/react-sneakers]
 * [https://cantidou.github.io/react-sneakers/]
